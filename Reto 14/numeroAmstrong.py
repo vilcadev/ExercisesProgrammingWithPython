@@ -16,4 +16,3 @@ def esNumeroAmstrong(num):
     else:
         return False
 print(esNumeroAmstrong(154))
-#DANIEL SIN POTO
